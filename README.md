@@ -9,6 +9,8 @@ immersive recipe-sharing experience."
 ![Screenshot (491)](https://github.com/TechGeno/Reshipi/assets/99545486/9bf6ba1d-9df6-4cac-9cfe-79f6e3914902)
 
 
+
+
 User Authentication: Securely register, log in, and manage your profile. Enjoy a personalized experience with saved recipes.
 
 ![Screenshot (495)](https://github.com/TechGeno/Reshipi/assets/99545486/2729f8b2-47f9-4dc8-8f5f-48d89933d332)
@@ -21,6 +23,7 @@ User Authentication: Securely register, log in, and manage your profile. Enjoy a
 
 User Profiles: Customize your profile with a profile picture, bio, and showcase your favorite recipes and creations.
 
+![Screenshot 2023-08-25 205003](https://github.com/SiriTetali/WishDish/assets/117676879/fd1237b6-4aa8-4ea2-9b67-0864e7c7cb6b)
 
 
 
