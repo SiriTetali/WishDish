@@ -20,8 +20,6 @@ User Authentication: Securely register, log in, and manage your profile. Enjoy a
 
 
 User Profiles: Customize your profile with a profile picture, bio, and showcase your favorite recipes and creations.
-![Screenshot (496)](https://github.com/TechGeno/Reshipi/assets/99545486/e381c9c0-81ff-4633-b231-9d641fe8f85a)
-
 
 
 
